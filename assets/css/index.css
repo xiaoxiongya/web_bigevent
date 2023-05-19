@@ -1,0 +1,50 @@
+/* 公共部分 */
+a {
+    transition: none !important;
+}
+/* 头部区域 */
+/* .layui-header{
+    background-color: #282B33 !important;
+} */
+/* 左侧导航栏区域 */
+.iconfont {
+    margin-right: 10px;
+}
+.layui-icon {
+    margin-right: 8px;
+    margin-left: 20px;
+}
+iframe {
+    width: 100%;
+    height: 100%;
+}
+.layui-body {
+    overflow: hidden;
+}
+.userInfo {
+    width: 200px;
+    height: 60px;
+    border-bottom: 1px solid #282B33;
+    line-height: 60px;
+    padding: 0 20px;
+}
+.userInfo img {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+}
+.userInfo span {
+    margin-left: 5px;
+    color: #fff;
+}
+
+.layui-nav-item .layui-icon {
+    margin: 0;
+    font-size: 16px;
+    vertical-align: middle;
+}
+/* 底部部分 */
+.layui-footer {
+    text-align: center;
+    font-size: 16px;
+}
